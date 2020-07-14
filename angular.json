@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "peerTopeer"
+    }
+  },
+  "defaultProject": "peerTopeer",
+  "cli": {
+    "analytics": "f69a14df-0f35-4f0d-a648-a5f23e4c7095"
+  }
 }
